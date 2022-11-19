@@ -10,7 +10,7 @@ class images extends StatelessWidget {
           child: Column(children: <Widget>[
         Padding(
           padding: EdgeInsets.all(90),
-          child: Image.asset('assets/img/chitchat.png'),
+          child: Image.asset('assets/img/pic.png'),
         )
       ])),
     ));
