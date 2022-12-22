@@ -4,7 +4,6 @@ import 'package:tugasflutterdani/pages/button.dart';
 import 'package:tugasflutterdani/pages/call.dart';
 import 'package:tugasflutterdani/pages/date.dart';
 import 'package:tugasflutterdani/pages/images.dart';
-import 'package:tugasflutterdani/pages/person.dart';
 import 'package:tugasflutterdani/pages/personListview.dart';
 
 class Home extends StatefulWidget {
